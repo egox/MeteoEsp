@@ -5,8 +5,8 @@
 LedControl lc = LedControl(D4, D2, D3, 1);
 
 // Initialize Wifi connection to the router
-char ssid[] = "XXX"; //  your network SSID (name)
-char pass[] = "XXX"; //  your network PWD (name)
+char ssid[] = "XXXX"; //  your network SSID (name)
+char pass[] = "XXXX"; //  your network PWD (name)
 //int keyIndex = 0;            // your network key Index number (needed only for WEP)
 
 
